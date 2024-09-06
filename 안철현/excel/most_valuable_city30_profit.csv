@@ -1,0 +1,31 @@
+city,"round(sum(sales), 2)",round(sum(profit))
+"New York City",255248.97,61624
+"Los Angeles",173168.87,29807
+Seattle,117772.58,28869
+"San Francisco",110917.04,17177
+Philadelphia,107486.47,-13732
+Houston,64389.43,-10044
+Chicago,47767.33,-6460
+"San Diego",47115.06,6309
+Jacksonville,44595.40,-2308
+Springfield,42791.74,6078
+Detroit,42302.90,13117
+Columbus,37535.37,5388
+Newark,28417.28,5716
+Lafayette,25001.83,10002
+Jackson,24903.45,7553
+Columbia,24782.76,5473
+"San Antonio",21843.53,-7299
+Burlington,21623.33,-3643
+Arlington,20204.09,4165
+Dallas,19755.09,-2848
+Lakewood,18187.98,3233
+Richmond,18106.67,5553
+Henderson,17549.07,4912
+Atlanta,17197.84,6994
+Minneapolis,16870.54,6825
+Providence,15963.61,5498
+Charlotte,13693.34,-430
+"Long Beach",13261.74,2030
+Louisville,12345.81,-1430
+Denver,11690.09,-245

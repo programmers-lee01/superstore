@@ -1,0 +1,4 @@
+category,"round(sum(sales), 2)",round(sum(profit))
+Technology,835900.07,145387
+Furniture,733046.86,16981
+"Office Supplies",703502.93,120490

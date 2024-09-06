@@ -1,0 +1,31 @@
+state,"round(sum(sales), 2)"
+California,450567.59
+"New York",309453.63
+Texas,169553.63
+Washington,136590.17
+Pennsylvania,114911.24
+Florida,88876.88
+Illinois,79009.29
+Ohio,76617.64
+Michigan,75991.58
+Virginia,70309.09
+"North Carolina",55548.21
+Indiana,53474.43
+Georgia,48296.30
+Kentucky,36591.75
+"New Jersey",34600.57
+Arizona,34284.91
+Wisconsin,32091.89
+Colorado,31285.24
+Tennessee,30422.77
+Minnesota,29863.15
+Massachusetts,28428.20
+Delaware,27036.17
+Maryland,23660.77
+"Rhode Island",22600.76
+Missouri,21557.91
+Alabama,19510.64
+Oklahoma,19142.15
+Oregon,17282.10
+Nevada,16642.90
+Connecticut,13317.80

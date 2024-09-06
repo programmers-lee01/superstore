@@ -1,0 +1,31 @@
+city,"round(sum(sales), 2)"
+"New York City",255248.97
+"Los Angeles",173168.87
+Seattle,117772.58
+"San Francisco",110917.04
+Philadelphia,107486.47
+Houston,64389.43
+Chicago,47767.33
+"San Diego",47115.06
+Jacksonville,44595.40
+Springfield,42791.74
+Detroit,42302.90
+Columbus,37535.37
+Newark,28417.28
+Lafayette,25001.83
+Jackson,24903.45
+Columbia,24782.76
+"San Antonio",21843.53
+Burlington,21623.33
+Arlington,20204.09
+Dallas,19755.09
+Lakewood,18187.98
+Richmond,18106.67
+Henderson,17549.07
+Atlanta,17197.84
+Minneapolis,16870.54
+Providence,15963.61
+Charlotte,13693.34
+"Long Beach",13261.74
+Louisville,12345.81
+Denver,11690.09
