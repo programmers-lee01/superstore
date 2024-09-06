@@ -36,4 +36,4 @@
 
 ![flowchart](https://github.com/programmers-lee01/superstore/blob/main/images/Flowchart.png?raw=true)
 
-보고서 링크
+보고서 [링크](https://github.com/programmers-lee01/superstore/blob/0fbb84b76bee9c577e39cfb0900dcbbe52eaadc4/report/superstore_report.pdf)
